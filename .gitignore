@@ -1,0 +1,7 @@
+.idea
+build/
+vendor/
+coverage/
+docker/
+.env
+docker-compose.yml
