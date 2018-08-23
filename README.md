@@ -1,3 +1,9 @@
+[![Latest Stable Version](https://poser.pugx.org/lizardmedia/module-all-products-listing/v/stable)](https://packagist.org/packages/lizardmedia/module-all-products-listing)
+[![Total Downloads](https://poser.pugx.org/lizardmedia/module-all-products-listing/downloads)](https://packagist.org/packages/lizardmedia/module-all-products-listing)
+[![License](https://poser.pugx.org/lizardmedia/module-all-products-listing/license)](https://packagist.org/packages/lizardmedia/module-all-products-listing)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/lizardmedia/all-products-listing-magento2/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/lizardmedia/all-products-listing-magento2/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/lizardmedia/all-products-listing-magento2/badges/build.png?b=master)](https://scrutinizer-ci.com/g/lizardmedia/all-products-listing-magento2/build-status/master)
+
 # Lizard Media All Products Listing
 
 ## Overview

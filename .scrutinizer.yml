@@ -25,9 +25,29 @@ checks:
       - magento/module-indexer
       - magento/module-require-js
       - magento/module-shipping
-      - magento/*
-      - magento
       - magento/module-cms
+      - magento/module-backend
+      - magento/module-catalog
+      - magento/module-media-storage
+      - magento/module-store
+      - magento/module-backup
+      - magento/module-cms-url-rewrite
+      - magento/module-reports
+      - magento/module-translation
+      - magento/module-bundle
+      - magento/module-downloadable
+      - magento/module-sales
+      - magento/module-ui
+      - magento/module-checkout
+      - magento/module-product-alert
+      - magento/module-variable
+      - magento/module-eav
+      - magento/module-contact
+      - magento/module-newsletter
+      - magento/module-sales-rule
+      - magento/module-deploy
+      - magento/module-payment
+      - magento/module-url-rewrite
 
 filter:
     excluded_paths:
