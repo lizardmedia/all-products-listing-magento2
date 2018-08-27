@@ -7,6 +7,9 @@
 -->
 <page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" layout="2columns-left" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
     <update handle="catalog_category_view_type_layered"/>
+    <head>
+        <css src="Magento_Swatches::css/swatches.css"/>
+    </head>
     <body>
         <referenceContainer name="columns.top">
             <container name="category.view.container" htmlTag="div" htmlClass="category-view" after="-">
