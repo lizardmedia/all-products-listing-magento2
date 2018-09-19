@@ -3,11 +3,11 @@
   "description": "Module adds listing displaying all products by LizardMedia",
   "require": {
     "php": "~7.1.0",
-    "magento/module-catalog": "102.0.5",
+    "magento/module-catalog": ">=102.0.0",
     "magento/framework": "101.0.*"
   },
   "type": "magento2-module",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": [
     "MIT"
   ],
