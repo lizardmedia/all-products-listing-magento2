@@ -15,7 +15,7 @@ Module provides listing displaying all products, within limits of root category
 
 ## Prerequisites
 Magento 2.2 or higher
-PHP 7.1
+PHP 7.1 or 7.2
 
 
 ## Installing ##
